@@ -1,1 +1,1 @@
-# Analog-Systems-and-Lab-EE2019
+# Analog Systems and Lab (EE2019)
